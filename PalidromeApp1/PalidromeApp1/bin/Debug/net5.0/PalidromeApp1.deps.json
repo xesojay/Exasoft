@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "PalidromeApp1/1.0.0": {
+        "runtime": {
+          "PalidromeApp1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PalidromeApp1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

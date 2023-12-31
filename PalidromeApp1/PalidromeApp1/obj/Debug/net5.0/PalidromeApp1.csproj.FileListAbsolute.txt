@@ -1,0 +1,16 @@
+C:\Projects\Exasoft\PalidromeApp1\PalidromeApp1\bin\Debug\net5.0\PalidromeApp1.exe
+C:\Projects\Exasoft\PalidromeApp1\PalidromeApp1\bin\Debug\net5.0\PalidromeApp1.deps.json
+C:\Projects\Exasoft\PalidromeApp1\PalidromeApp1\bin\Debug\net5.0\PalidromeApp1.runtimeconfig.json
+C:\Projects\Exasoft\PalidromeApp1\PalidromeApp1\bin\Debug\net5.0\PalidromeApp1.runtimeconfig.dev.json
+C:\Projects\Exasoft\PalidromeApp1\PalidromeApp1\bin\Debug\net5.0\PalidromeApp1.dll
+C:\Projects\Exasoft\PalidromeApp1\PalidromeApp1\bin\Debug\net5.0\ref\PalidromeApp1.dll
+C:\Projects\Exasoft\PalidromeApp1\PalidromeApp1\bin\Debug\net5.0\PalidromeApp1.pdb
+C:\Projects\Exasoft\PalidromeApp1\PalidromeApp1\obj\Debug\net5.0\PalidromeApp1.csproj.AssemblyReference.cache
+C:\Projects\Exasoft\PalidromeApp1\PalidromeApp1\obj\Debug\net5.0\PalidromeApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Exasoft\PalidromeApp1\PalidromeApp1\obj\Debug\net5.0\PalidromeApp1.AssemblyInfoInputs.cache
+C:\Projects\Exasoft\PalidromeApp1\PalidromeApp1\obj\Debug\net5.0\PalidromeApp1.AssemblyInfo.cs
+C:\Projects\Exasoft\PalidromeApp1\PalidromeApp1\obj\Debug\net5.0\PalidromeApp1.csproj.CoreCompileInputs.cache
+C:\Projects\Exasoft\PalidromeApp1\PalidromeApp1\obj\Debug\net5.0\PalidromeApp1.dll
+C:\Projects\Exasoft\PalidromeApp1\PalidromeApp1\obj\Debug\net5.0\ref\PalidromeApp1.dll
+C:\Projects\Exasoft\PalidromeApp1\PalidromeApp1\obj\Debug\net5.0\PalidromeApp1.pdb
+C:\Projects\Exasoft\PalidromeApp1\PalidromeApp1\obj\Debug\net5.0\PalidromeApp1.genruntimeconfig.cache
